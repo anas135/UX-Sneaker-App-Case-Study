@@ -7,4 +7,6 @@ Within this PDF, it includes a presentation of a UX case study of a shoe app i m
 - Design
 - Testing
 
+Overall, SneakerVault simplifies the sneaker shopping process, enabling users to easily find and purchase their favorite pairs while offering a modern, user-friendly interface.
+
 I hope you enjoy the read!
